@@ -31,5 +31,5 @@ The cleaned dataset is saved as Cleaned_car.csv for further analysis and model t
 - The trained model is saved using pickle as LinearRegressionModel.pkl.
 - The saved model can be used for predicting car prices based on new input data.
 
-**Credits** - This project is inspired by the tutorials provided by Campus X channel, where machine learning projects are taught and implemented.
+**Credits** - This project is inspired by the tutorials provided by CampusX Youtube Channel.
 
